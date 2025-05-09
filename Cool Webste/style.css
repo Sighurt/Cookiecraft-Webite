@@ -335,7 +335,7 @@ body::-webkit-scrollbar {
   }
 @font-face {
 font-family: 'minecraft_bold_font';
-src: url('/fonts/MinecraftTen-VGORe.ttf') format('truetype');
+src: url('fonts/MinecraftTen-VGORe.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 }
