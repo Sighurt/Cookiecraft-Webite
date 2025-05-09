@@ -27,6 +27,7 @@ body::-webkit-scrollbar {
 .title_p {
     color: black;
     font-family: 'minecraft_bold_font', sans-serif;
+    font-weight: bold;
     font-size: 150px;
     margin-top: 29%;
     text-align: center;
@@ -334,7 +335,7 @@ body::-webkit-scrollbar {
   }
 @font-face {
 font-family: 'minecraft_bold_font';
-src: url('../fonts/MinecraftTen-VGORe.ttf') format('truetype');
+src: url('/fonts/MinecraftTen-VGORe.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 }
